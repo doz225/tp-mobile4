@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="BtnNon" type="id" />
+    <item name="TVAge" type="id" />
+    <item name="ETValMes" type="id" />
+    <item name="BtnConsulter" type="id" />
+</resources>
